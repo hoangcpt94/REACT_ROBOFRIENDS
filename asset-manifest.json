@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/hoangcpt94/REACT_ROBOFRIENDS/static/css/main.f0a8c8ae.chunk.css",
-    "main.js": "/hoangcpt94/REACT_ROBOFRIENDS/static/js/main.569507e5.chunk.js",
-    "main.js.map": "/hoangcpt94/REACT_ROBOFRIENDS/static/js/main.569507e5.chunk.js.map",
-    "runtime-main.js": "/hoangcpt94/REACT_ROBOFRIENDS/static/js/runtime-main.48055ea9.js",
-    "runtime-main.js.map": "/hoangcpt94/REACT_ROBOFRIENDS/static/js/runtime-main.48055ea9.js.map",
-    "static/css/2.31461e4f.chunk.css": "/hoangcpt94/REACT_ROBOFRIENDS/static/css/2.31461e4f.chunk.css",
-    "static/js/2.a6c4d654.chunk.js": "/hoangcpt94/REACT_ROBOFRIENDS/static/js/2.a6c4d654.chunk.js",
-    "static/js/2.a6c4d654.chunk.js.map": "/hoangcpt94/REACT_ROBOFRIENDS/static/js/2.a6c4d654.chunk.js.map",
-    "static/js/3.5218428c.chunk.js": "/hoangcpt94/REACT_ROBOFRIENDS/static/js/3.5218428c.chunk.js",
-    "static/js/3.5218428c.chunk.js.map": "/hoangcpt94/REACT_ROBOFRIENDS/static/js/3.5218428c.chunk.js.map",
-    "index.html": "/hoangcpt94/REACT_ROBOFRIENDS/index.html",
-    "static/css/2.31461e4f.chunk.css.map": "/hoangcpt94/REACT_ROBOFRIENDS/static/css/2.31461e4f.chunk.css.map",
-    "static/css/main.f0a8c8ae.chunk.css.map": "/hoangcpt94/REACT_ROBOFRIENDS/static/css/main.f0a8c8ae.chunk.css.map",
-    "static/js/2.a6c4d654.chunk.js.LICENSE.txt": "/hoangcpt94/REACT_ROBOFRIENDS/static/js/2.a6c4d654.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/hoangcpt94/REACT_ROBOFRIENDS/static/media/SEGA.47b4bfa9.woff"
+    "main.css": "/REACT_ROBOFRIENDS/static/css/main.1b3f1930.chunk.css",
+    "main.js": "/REACT_ROBOFRIENDS/static/js/main.569507e5.chunk.js",
+    "main.js.map": "/REACT_ROBOFRIENDS/static/js/main.569507e5.chunk.js.map",
+    "runtime-main.js": "/REACT_ROBOFRIENDS/static/js/runtime-main.dfdc8269.js",
+    "runtime-main.js.map": "/REACT_ROBOFRIENDS/static/js/runtime-main.dfdc8269.js.map",
+    "static/css/2.31461e4f.chunk.css": "/REACT_ROBOFRIENDS/static/css/2.31461e4f.chunk.css",
+    "static/js/2.a6c4d654.chunk.js": "/REACT_ROBOFRIENDS/static/js/2.a6c4d654.chunk.js",
+    "static/js/2.a6c4d654.chunk.js.map": "/REACT_ROBOFRIENDS/static/js/2.a6c4d654.chunk.js.map",
+    "static/js/3.5218428c.chunk.js": "/REACT_ROBOFRIENDS/static/js/3.5218428c.chunk.js",
+    "static/js/3.5218428c.chunk.js.map": "/REACT_ROBOFRIENDS/static/js/3.5218428c.chunk.js.map",
+    "index.html": "/REACT_ROBOFRIENDS/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/REACT_ROBOFRIENDS/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.1b3f1930.chunk.css.map": "/REACT_ROBOFRIENDS/static/css/main.1b3f1930.chunk.css.map",
+    "static/js/2.a6c4d654.chunk.js.LICENSE.txt": "/REACT_ROBOFRIENDS/static/js/2.a6c4d654.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/REACT_ROBOFRIENDS/static/media/SEGA.47b4bfa9.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.48055ea9.js",
+    "static/js/runtime-main.dfdc8269.js",
     "static/css/2.31461e4f.chunk.css",
     "static/js/2.a6c4d654.chunk.js",
-    "static/css/main.f0a8c8ae.chunk.css",
+    "static/css/main.1b3f1930.chunk.css",
     "static/js/main.569507e5.chunk.js"
   ]
 }
